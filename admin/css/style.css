@@ -1,0 +1,10 @@
+#success_message{ display: none;}
+.form-group{margin-top: 10px; min-height: 25px;}
+.form-group textarea{margin-bottom: 10px;margin-top: 10px;}
+tbody , tr , td{border: medium none !important;}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control{background-color: #fff;}
+.form-control[disabled], .form-control[readonly]{color: #000;}
+.add-box {margin-top: 18px;}
+.page-container .page-content .page-content-wrap{background: #fff;}
+#customers2 th{text-align:center}
+
